@@ -1,0 +1,16 @@
+Exeption happened at 2022-09-19 22:10:08.607310
+Traceback (most recent call last):
+  File "c:\Users\TheAR\innolearn\1_semester\petuchon\assigment1\task4\task4.py", line 11, in wrap
+    result = func(*args, **kwargs)
+  File "c:\Users\TheAR\innolearn\1_semester\petuchon\assigment1\task4\main.py", line 5, in error_zero_div
+    return a/0
+ZeroDivisionError: division by zero
+
+Exeption happened at 2022-09-19 22:10:08.608305
+Traceback (most recent call last):
+  File "c:\Users\TheAR\innolearn\1_semester\petuchon\assigment1\task4\task4.py", line 11, in wrap
+    result = func(*args, **kwargs)
+  File "c:\Users\TheAR\innolearn\1_semester\petuchon\assigment1\task4\main.py", line 5, in error_zero_div
+    return a/0
+ZeroDivisionError: division by zero
+
