@@ -1,7 +1,6 @@
 import time
 import inspect
 
-
 def decorator_2(f):
     callCount = {}
 
@@ -17,6 +16,6 @@ def decorator_2(f):
               ' time and it take ' + str((time2-time1)*1000.0)+" ms")
         print("Now properties\nfunc name:"+str(f.__name__)+"\nType :"+str(type(f))+"\nSign : "+str(inspect.signature(f)) +
               '\nPos args: '+str(args)+'\nKeyworded args: '+str(kwargs)+"\nDoc: "+str(f.__doc__)+'\nSource: '+str(inspect.getsource(f))+'\nOutput: '+str(f(*args)))
-
+        
         return ret
     return wrap
