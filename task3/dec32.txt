@@ -1,0 +1,131 @@
+
+Function funx called 1 time and it take 48.819541931152344 ms
+Now properties
+func name:funx
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funx():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funh called 1 time and it take 42.58370399475098 ms
+Now properties
+func name:funh
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funh():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funx called 1 time and it take 45.06182670593262 ms
+Now properties
+func name:funx
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funx():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funh called 1 time and it take 20.445585250854492 ms
+Now properties
+func name:funh
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funh():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funx called 1 time and it take 88.91153335571289 ms
+Now properties
+func name:funx
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funx():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funh called 1 time and it take 68.29071044921875 ms
+Now properties
+func name:funh
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funh():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funx called 1 time and it take 44.06571388244629 ms
+Now properties
+func name:funx
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funx():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funh called 1 time and it take 64.25619125366211 ms
+Now properties
+func name:funh
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funh():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funx called 1 time and it take 60.88614463806152 ms
+Now properties
+func name:funx
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funx():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None
+Function funh called 1 time and it take 48.623085021972656 ms
+Now properties
+func name:funh
+Type :<class 'function'>
+Sign : ()
+Pos args: ()
+Keyworded args: {}
+Doc: None
+Source: @decorator_3_2
+def funh():
+    time.sleep(random.uniform(0.0, 0.1))
+
+Output: None

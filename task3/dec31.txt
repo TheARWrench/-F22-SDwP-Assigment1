@@ -1,0 +1,6 @@
+
+Function func called 1 time and it take 65.78397750854492 ms
+Function func called 1 time and it take 12.204408645629883 ms
+Function func called 1 time and it take 11.478662490844727 ms
+Function func called 1 time and it take 97.35512733459473 ms
+Function func called 1 time and it take 81.80689811706543 ms
